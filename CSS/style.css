@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+
+.background{
+    background-color: #f5f5f5;
+    height: 100vh;
+}
+
+.content{
+    width: 350px;
+    height: 600px;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    background-color: white;
+}
+.content{
+    text-align: center;
+    position: relative;
+}
+.content h1{
+    position: relative;
+    top: 65px;
+    left: 10px;
+    color: #0339f9;
+    font-family: "Inter", sans-serif;
+}
+.content input{
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 150px;
+    padding: 8px 0; 
+    border-radius: 5px;
+
+}
+.inpu2{
+    position: relative;
+}
+button{
+    position: relative;
+    top: 220px;
+    padding: 10px 140px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    background-color: #0339f9;
+}
+.forgtpas{
+    position: relative;
+    top: 236;
+    text-decoration: none;
+    color: #2178fa;
+}
+.orline{
+    position: relative;
+    top: 240px;
+    font-size: 1;
+}
+.linkes a{
+    position: relative;
+    top: 270px;
+    padding-inline: 12px;
+    text-decoration: none;
+    color: black;
+}
+.pragrph{
+    position: relative;
+    top: 280px;
+    font-size: small;
+    color: black;
+}
